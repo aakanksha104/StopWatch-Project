@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     private boolean running;
     private boolean wasRunning;
 
+    //change1
+    //change2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
